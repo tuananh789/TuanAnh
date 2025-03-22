@@ -1,5 +1,5 @@
 
-## ĐỒ ÁN ĐIỆN TOÁN DI ĐỘNGĐỘNG
+## ĐỒ ÁN ĐIỆN TOÁN DI ĐỘNG
 SV thực hiện: ĐẶNG TUẤN ANH
 MSV: 2823156436
 ## Mục lục
